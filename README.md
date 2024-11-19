@@ -18,5 +18,5 @@ A simple project for adding a bank card using Vue.js. The project supports:
     ```
    
 ## Overview
-![ ](./docs/visa.png)
-![ ](./docs/mastercard.png)
+![ ](https://github.com/P4FFos/PaymentSystem/blob/master/src/docs/mastercard.png?raw=true)
+![ ](https://github.com/P4FFos/PaymentSystem/blob/master/src/docs/visa.png?raw=true)
