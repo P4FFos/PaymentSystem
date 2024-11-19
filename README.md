@@ -16,3 +16,7 @@ A simple project for adding a bank card using Vue.js. The project supports:
    ```bash
     npm run dev
     ```
+   
+## Overview
+![ ](./docs/visa.png)
+![ ](./docs/mastercard.png)
